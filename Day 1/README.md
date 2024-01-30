@@ -6,3 +6,4 @@
 - The Python Input Function
 - Python Variables
 - Variable Naming
+## Band Name Generator
