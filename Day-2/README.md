@@ -6,6 +6,7 @@
 - Mathematical Operations in Python
 - Number Manipulation and F Strings in Python
 ## Tip Calculator
+![day02](https://github.com/jolynutella/100-days-of-Python-and-Docker/assets/49729426/e267cf85-ad94-4cf4-bdb8-21e47db997a5)
 ## Build & Run 
 - Open a terminal in this directory
 - Run the following command to build the image:
