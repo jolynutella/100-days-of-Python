@@ -14,4 +14,4 @@
 ```docker build -t band-name-generator .```
 - Run the container:
 ```docker run -it band-name-generator```
-- The app will ask for your city and pet name, and then display the generated band name.
+- The app will ask for the city name you grew up in and pet name, and then display the generated band name.
