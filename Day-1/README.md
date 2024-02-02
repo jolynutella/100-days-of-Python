@@ -7,6 +7,7 @@
 - Python Variables
 - Variable Naming
 ## Band Name Generator
+![day01](https://github.com/jolynutella/100-days-of-Python-and-Docker/assets/49729426/aba55f12-437a-4550-8e4f-e901302b88da)
 ## Build & Run 
 - Open a terminal in this directory
 - Run the following command to build the image:
