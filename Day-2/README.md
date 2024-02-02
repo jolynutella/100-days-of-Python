@@ -6,3 +6,10 @@
 - Mathematical Operations in Python
 - Number Manipulation and F Strings in Python
 ## Tip Calculator
+## Build & Run 
+- Open a terminal in this directory
+- Run the following command to build the image:
+```docker build -t tip-calculator .```
+- Run the container:
+```docker run -it tip-calculator```
+- The app will ask what was the total bill, what percentage would you like to give, how many people will split the bill and then will display how much each person should pay.
