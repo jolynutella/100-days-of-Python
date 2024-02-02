@@ -49,7 +49,7 @@ else:
     if computers_choice == 0:
       print(f"The computer chose: Rock {rock}")
       if choice == 2:
-        print("You lose, Rock wins against scissors.")
+        print("You lost, Rock wins against scissors.")
       elif choice == 0:
         print("It's a draw!")
       else:
@@ -58,7 +58,7 @@ else:
     elif computers_choice == 1:
       print(f"The computer chose: Paper {paper}")
       if choice == 0:
-        print("You lose, Paper wins against rock.")
+        print("You lost, Paper wins against rock.")
       elif choice == 0:
         print("It's a draw!")
       else:
@@ -67,7 +67,7 @@ else:
     elif computers_choice == 2:
       print(f"The computer chose: Scissors {scissors}")
       if choice == 1:
-        print("You lose, Scissors win against paper.")
+        print("You lost, Scissors win against paper.")
       elif choice == 2:
         print("It's a draw!")
       else:
