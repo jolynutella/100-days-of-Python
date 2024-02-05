@@ -14,3 +14,4 @@ All projects ideas come from the Udemy course: [100 Days of Code: The Complete P
 - [Day 5:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day%205) Python For Loops
 - [Day 6:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day-6) Python Functions & Karel
 - [Day 7:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day-7) Hangman
+- [Day 8:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day-8) Function Parameters & Caesar Cipher
