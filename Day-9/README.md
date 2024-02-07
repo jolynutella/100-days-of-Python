@@ -9,4 +9,4 @@
 ```docker build -t secret-auction .```
 - Run the container:
 ```docker run -it secret-auction```
-- This is a hangman game where you play against computer.
+- This is a secret auction program where people can place their bids.
