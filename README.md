@@ -16,3 +16,4 @@ All projects ideas come from the Udemy course: [100 Days of Code: The Complete P
 - [Day 7:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day-7) Hangman
 - [Day 8:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day-8) Function Parameters & Caesar Cipher
 - [Day 9:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day-9) Dictionaries, Nesting and the Secret Auction
+- [Day 10:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day-10) Functions with Outputs
