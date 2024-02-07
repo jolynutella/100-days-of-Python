@@ -10,4 +10,4 @@
 ```docker build -t caesar-cipher .```
 - Run the container:
 ```docker run -it caesar-cipher```
-- This is a hangman game where you play against computer.
+- This is a program thar performs Caesar cipher on user provided tet, it can encrypt or decrypt text.
