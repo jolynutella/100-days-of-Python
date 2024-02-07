@@ -1,7 +1,7 @@
 import os
 from art import logo
 
-# This will clear the screen so other bider can't see previous bid. Note: 'cls' will work only on Windows, on Linux change to 'clear'.
+# This will clear the screen. Note: 'cls' will work only on Windows, on Linux change to 'clear'.
 clear = lambda: os.system('clear')
 
 def add(n1, n2):
