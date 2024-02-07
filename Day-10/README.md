@@ -13,4 +13,4 @@
 ```docker build -t calculator .```
 - Run the container:
 ```docker run -it calculator```
-- This is a hangman game where you play against computer.
+- This is a calculator program.
