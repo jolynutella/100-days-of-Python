@@ -20,3 +20,4 @@ All projects ideas come from the Udemy course: [100 Days of Code: The Complete P
 - [Day 11:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day-11) The Blackjack Capstone Project
 - [Day 12:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day-12) Scope & Number Guessing Game
 - Day 13: Debugging: How to Find and Fix Errors in your Code
+-[Day 14:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day-14) Higher Lower Game Project
