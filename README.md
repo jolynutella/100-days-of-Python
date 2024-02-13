@@ -23,3 +23,4 @@ All projects ideas come from the Udemy course: [100 Days of Code: The Complete P
 - [Day 14:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day-14) Higher Lower Game Project
 ## 📚 Intermediate
 - [Day 15:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day-15) Local Development Environment Setup & the Coffee Machine
+- [Day 16:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day-16) Object Oriented Programming (OOP)
