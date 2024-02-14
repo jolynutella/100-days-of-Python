@@ -24,3 +24,4 @@ All projects ideas come from the Udemy course: [100 Days of Code: The Complete P
 ## 📚 Intermediate
 - [Day 15:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day-15) Local Development Environment Setup & the Coffee Machine
 - [Day 16:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day-16) Object Oriented Programming (OOP)
+- [Day 17:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day-17) The Quiz Project & The Benefits of OOP
