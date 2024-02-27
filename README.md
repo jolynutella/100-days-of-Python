@@ -28,3 +28,4 @@ All projects ideas come from the Udemy course: [100 Days of Code: The Complete P
 - [Day 18:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day18) Turtle & the Graphical User Interface (GUI)
 - [Day 19:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day19) Instances, State and Higher Order Functions
 - [Day 20:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day20) Build the Snake Game Part 1: Animation & Coordinates
+- [Day 21:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day21) Build the Snake Game Part 2: Inheritance & List Slicing
