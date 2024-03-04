@@ -33,3 +33,4 @@ All projects ideas come from the Udemy course: [100 Days of Code: The Complete P
 - [Day 23:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day23) The Turtle Crossing Capstone Project
 - [Day 24:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day24) Files, Directories and Paths
 - [Day 25:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day25) Working with CSV Data and the Pandas Library
+- [Day 26:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day26) List Comprehension and the Nato Alphabet
