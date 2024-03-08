@@ -37,3 +37,4 @@ All projects ideas come from the Udemy course: [100 Days of Code: The Complete P
 - [Day 27:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day27) Tkinter, *args, **kwargs and Creating GUI Programs
 - [Day 28:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day28) Tkinter, Dynamic Typing and the Pomodoro GUI Application
 - [Day 29:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day29) Building a Password Manager GUI App with Tkinter
+- [Day 30:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day30) Errors, Exceptions and JSON Data: Improving the Password Manager
