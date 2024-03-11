@@ -39,3 +39,4 @@ All projects ideas come from the Udemy course: [100 Days of Code: The Complete P
 - [Day 29:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day29) Building a Password Manager GUI App with Tkinter
 - [Day 30:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day30) Errors, Exceptions and JSON Data: Improving the Password Manager
 - [Day 31:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day31) Flash Card App Capstone Project
+- [Day 32:](https://github.com/jolynutella/100-days-of-Python-and-Docker/tree/main/Day32) Send Email (smtplib) & Manage Dates (datetime)
